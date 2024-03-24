@@ -1,0 +1,6 @@
+﻿#form-editor {
+    height: 524px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

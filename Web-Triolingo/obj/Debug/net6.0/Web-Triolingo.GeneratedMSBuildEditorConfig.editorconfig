@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web_Triolingo
+build_property.RootNamespace = Web_Triolingo
+build_property.ProjectDir = C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Web-Triolingo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Web-Triolingo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Shared/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhZ2luYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Courses/CourseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xDb3Vyc2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Lessons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVzc29uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/QnA/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUW5BXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Settings/SettingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3NcU2V0dGluZ0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Shared/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Units/ListAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5pdHNcTGlzdEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Users/UserControl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckNvbnRyb2wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/Ki7/Web_Triolingo/Web-Triolingo/Web-Triolingo/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yweub371wm

@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\bin\Debug\net6.0\Triolingo.Core.deps.json
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\bin\Debug\net6.0\Triolingo.Core.runtimeconfig.json
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\bin\Debug\net6.0\Triolingo.Core.dll
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\bin\Debug\net6.0\Triolingo.Core.pdb
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.AssemblyInfo.cs
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.sourcelink.json
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.dll
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\refint\Triolingo.Core.dll
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.pdb
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\Triolingo.Core.genruntimeconfig.cache
+C:\Users\hp\Documents\Ki7\Web_Triolingo\Web-Triolingo\Triolingo.Core\obj\Debug\net6.0\ref\Triolingo.Core.dll

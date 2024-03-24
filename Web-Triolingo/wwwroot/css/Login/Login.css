@@ -1,0 +1,90 @@
+﻿
+
+#login {
+    height: 100%;
+}
+
+.offcanvas-body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.formLogin {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 375px;
+}
+
+    .formLogin input {
+        background: #f7f7f7;
+        border: 2px solid #e5e5e5;
+        border-radius: 16px;
+        line-height: 27px;
+        padding: 8px 16px;
+    }
+
+        .formLogin input:focus {
+            background: #f7f7f7;
+        }
+
+.title {
+    text-align: center;
+    font-size: 26px;
+    margin: 10px 0 15px;
+    font-weight: 700;
+    line-height: 40px;
+    color: rgb(60, 60, 60)
+}
+
+.form-group {
+    position: relative;
+}
+
+.forgot {
+    position: absolute;
+    right: 15px;
+    top: 25%;
+    position: absolute;
+    right: 15px;
+    color: #afafaf;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    text-transform: uppercase;
+}
+
+    .forgot:hover {
+        color: #777;
+    }
+
+.submitbtn {
+    width: 100%;
+    background: rgb(28, 176, 246);
+    border: none;
+    padding: 13px;
+    letter-spacing: 0.8px;
+    border-radius: 16px;
+    border-radius: 16px;
+    line-height: 27px;
+    padding: 8px 16px;
+    box-shadow: rgba(24, 153, 214, 0.25) 0px 7px 14px, rgba(24, 153, 214, 0.22) 0px 10px 10px;
+}
+
+.policy {
+    width: 375px;
+    line-height: 20px;
+    padding: 40px 0 10px 0;
+    text-align: center;
+    color: rgb(175, 175, 175);
+    font-size: 14px;
+}
+
+    .policy a {
+        color: inherit;
+        text-decoration: none;
+        background-color: transparent;
+    }
