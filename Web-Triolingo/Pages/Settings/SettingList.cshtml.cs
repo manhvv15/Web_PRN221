@@ -193,6 +193,7 @@ namespace Web_Triolingo.Pages.Settings
             {
                 _logger.LogError(ex.ToString());
                 throw;
+
             }
         }
         public ActionResult OnPostLogout()
